@@ -2,7 +2,7 @@
 EDA and random forest forcast on flight delay rate
 
 
-[View the complete report PDF here](./path/to/your/file.pdf)
+[View the complete report PDF here](./Group 33-Final Project Report.pdf)
 
 
 ### Summary ###
