@@ -2,7 +2,7 @@
 EDA and random forest forcast on flight delay rate
 
 
-[View the complete report PDF here](./Group 33-Final Project Report.pdf)
+[View the complete report PDF here]([./Group 33-Final Project Report.pdf](https://github.com/boyirenOO/Flight-Delay-Analysis/blob/main/Group%2033-Final%20Project%20Report.pdf))
 
 
 ### Summary ###
